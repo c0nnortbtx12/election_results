@@ -1,0 +1,1544 @@
+<?xml version="1.0"?>
+<ElectionReport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://grouper.ieee.org/groups/1622/groups/2/V1/1622_2-election_results_reporting.xsd" Format="SummaryContest" GeneratedDate="2025-05-06T01:25:45Z" Issuer="Ohio Secretary of State Frank LaRose" IssuerAbbreviation="OH" Sequence="0" SequenceEnd="0" Status="UnofficialPartial" VendorApplicationId="Ohio-ENR 1.0.02">
+  <Code Type="Fips" Value="39"/>
+  <Code OtherType="DisplayedFormat" Type="Other" Value="SummaryContest"/>
+  <GpUnitCollection>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503C4A670E0633390EE0A2318" Name="Adams" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="21" Type="County" VotersParticipated="0" VotersRegistered="17801">
+      <Code Type="StateLevel" Value="1"/>
+      <Code Type="LocalLevel" Value="Southwest"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="21"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/adams/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A50412A670E0633390EE0A2318" Name="Allen" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="88" Type="County" VotersParticipated="0" VotersRegistered="66561">
+      <Code Type="StateLevel" Value="2"/>
+      <Code Type="LocalLevel" Value="West"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="164"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.allen.boe.ohio.gov/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503C6A670E0633390EE0A2318" Name="Ashland" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="39" Type="County" VotersParticipated="0" VotersRegistered="34964">
+      <Code Type="StateLevel" Value="3"/>
+      <Code Type="LocalLevel" Value="Northeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="63"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/ashland/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503C8A670E0633390EE0A2318" Name="Ashtabula" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="104" Type="County" VotersParticipated="0" VotersRegistered="61792">
+      <Code Type="StateLevel" Value="4"/>
+      <Code Type="LocalLevel" Value="Northeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="248"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/ashtabula/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503CAA670E0633390EE0A2318" Name="Athens" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="56" Type="County" VotersParticipated="0" VotersRegistered="38930">
+      <Code Type="StateLevel" Value="5"/>
+      <Code Type="LocalLevel" Value="Southeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="153"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/athens/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503B6A670E0633390EE0A2318" Name="Auglaize" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="42" Type="County" VotersParticipated="0" VotersRegistered="32912">
+      <Code Type="StateLevel" Value="6"/>
+      <Code Type="LocalLevel" Value="West"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="57"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/auglaize/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A50430A670E0633390EE0A2318" Name="Belmont" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="70" Type="County" VotersParticipated="0" VotersRegistered="45081">
+      <Code Type="StateLevel" Value="7"/>
+      <Code Type="LocalLevel" Value="Southeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="83"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/belmont/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503FCA670E0633390EE0A2318" Name="Brown" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="33" Type="County" VotersParticipated="0" VotersRegistered="29869">
+      <Code Type="StateLevel" Value="8"/>
+      <Code Type="LocalLevel" Value="Southwest"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="21"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/brown/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503BCA670E0633390EE0A2318" Name="Butler" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="291" Type="County" VotersParticipated="0" VotersRegistered="258257">
+      <Code Type="StateLevel" Value="9"/>
+      <Code Type="LocalLevel" Value="Southwest"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="520"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://liveresults.boe.ohio.gov/ENR/butlerohenr/14/en/Index_14.html</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503BEA670E0633390EE0A2318" Name="Carroll" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="23" Type="County" VotersParticipated="0" VotersRegistered="18373">
+      <Code Type="StateLevel" Value="10"/>
+      <Code Type="LocalLevel" Value="Northeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="42"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/carroll/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503FEA670E0633390EE0A2318" Name="Champaign" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="29" Type="County" VotersParticipated="0" VotersRegistered="27240">
+      <Code Type="StateLevel" Value="11"/>
+      <Code Type="LocalLevel" Value="West"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="47"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/champaign/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A50400A670E0633390EE0A2318" Name="Clark" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="76" Type="County" VotersParticipated="0" VotersRegistered="88455">
+      <Code Type="StateLevel" Value="12"/>
+      <Code Type="LocalLevel" Value="West"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="190"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://liveresults.boe.ohio.gov/ENR/clarkohenr/10/en/Index_10.html</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A50402A670E0633390EE0A2318" Name="Clermont" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="168" Type="County" VotersParticipated="0" VotersRegistered="152633">
+      <Code Type="StateLevel" Value="13"/>
+      <Code Type="LocalLevel" Value="Southwest"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="349"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://boe.clermontcountyohio.gov/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A50404A670E0633390EE0A2318" Name="Clinton" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="36" Type="County" VotersParticipated="0" VotersRegistered="28185">
+      <Code Type="StateLevel" Value="14"/>
+      <Code Type="LocalLevel" Value="Southwest"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="26"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/clinton/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A5038AA670E0633390EE0A2318" Name="Columbiana" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="73" Type="County" VotersParticipated="0" VotersRegistered="66445">
+      <Code Type="StateLevel" Value="15"/>
+      <Code Type="LocalLevel" Value="Northeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="132"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.columbiana.boe.ohio.gov/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A50438A670E0633390EE0A2318" Name="Coshocton" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="23" Type="County" VotersParticipated="0" VotersRegistered="22674">
+      <Code Type="StateLevel" Value="16"/>
+      <Code Type="LocalLevel" Value="Central"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="36"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.coshocton.boe.ohio.gov/election-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503F6A670E0633390EE0A2318" Name="Crawford" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="35" Type="County" VotersParticipated="0" VotersRegistered="28324">
+      <Code Type="StateLevel" Value="17"/>
+      <Code Type="LocalLevel" Value="Central"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="75"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://crawfordcountyohioboe.gov</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503DAA670E0633390EE0A2318" Name="Cuyahoga" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="897" Type="County" VotersParticipated="0" VotersRegistered="894735">
+      <Code Type="StateLevel" Value="18"/>
+      <Code Type="LocalLevel" Value="Northeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="13400"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://boe.cuyahogacounty.gov</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503DCA670E0633390EE0A2318" Name="Darke" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="43" Type="County" VotersParticipated="0" VotersRegistered="35202">
+      <Code Type="StateLevel" Value="19"/>
+      <Code Type="LocalLevel" Value="West"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="15"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/darke/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A50436A670E0633390EE0A2318" Name="Defiance" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="33" Type="County" VotersParticipated="0" VotersRegistered="27039">
+      <Code Type="StateLevel" Value="20"/>
+      <Code Type="LocalLevel" Value="Northwest"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="35"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/defiance/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503DEA670E0633390EE0A2318" Name="Delaware" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="177" Type="County" VotersParticipated="0" VotersRegistered="166744">
+      <Code Type="StateLevel" Value="21"/>
+      <Code Type="LocalLevel" Value="Central"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="409"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://vote.delawarecountyohio.gov/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503E4A670E0633390EE0A2318" Name="Erie" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="62" Type="County" VotersParticipated="0" VotersRegistered="54429">
+      <Code Type="StateLevel" Value="22"/>
+      <Code Type="LocalLevel" Value="Northeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="59"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>www.boe.ohio.gov/erie</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A5040CA670E0633390EE0A2318" Name="Fairfield" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="111" Type="County" VotersParticipated="0" VotersRegistered="113235">
+      <Code Type="StateLevel" Value="23"/>
+      <Code Type="LocalLevel" Value="Central"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="219"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/fairfield</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503E6A670E0633390EE0A2318" Name="Fayette" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="25" Type="County" VotersParticipated="0" VotersRegistered="17534">
+      <Code Type="StateLevel" Value="24"/>
+      <Code Type="LocalLevel" Value="Central"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="19"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/fayette/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A5039EA670E0633390EE0A2318" Name="Franklin" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="888" Type="County" VotersParticipated="0" VotersRegistered="907890">
+      <Code Type="StateLevel" Value="25"/>
+      <Code Type="LocalLevel" Value="Central"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="1618"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://vote.franklincountyohio.gov/elections</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503B4A670E0633390EE0A2318" Name="Fulton" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="29" Type="County" VotersParticipated="0" VotersRegistered="29796">
+      <Code Type="StateLevel" Value="26"/>
+      <Code Type="LocalLevel" Value="Northwest"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="18"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/fulton/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503BAA670E0633390EE0A2318" Name="Gallia" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="26" Type="County" VotersParticipated="0" VotersRegistered="19125">
+      <Code Type="StateLevel" Value="27"/>
+      <Code Type="LocalLevel" Value="Southeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="15"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/gallia/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503C0A670E0633390EE0A2318" Name="Geauga" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="78" Type="County" VotersParticipated="0" VotersRegistered="69184">
+      <Code Type="StateLevel" Value="28"/>
+      <Code Type="LocalLevel" Value="Northeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="167"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://boelections.geauga.oh.gov/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503C2A670E0633390EE0A2318" Name="Greene" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="146" Type="County" VotersParticipated="0" VotersRegistered="123225">
+      <Code Type="StateLevel" Value="29"/>
+      <Code Type="LocalLevel" Value="West"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="339"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/greene/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503E8A670E0633390EE0A2318" Name="Guernsey" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="35" Type="County" VotersParticipated="0" VotersRegistered="24764">
+      <Code Type="StateLevel" Value="30"/>
+      <Code Type="LocalLevel" Value="Southeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="52"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://boe.guernseycounty.gov/documents/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503E2A670E0633390EE0A2318" Name="Hamilton" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="562" Type="County" VotersParticipated="0" VotersRegistered="607280">
+      <Code Type="StateLevel" Value="31"/>
+      <Code Type="LocalLevel" Value="Southwest"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="1749"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://results.votehamiltoncountyohio.gov/OH/Hamilton/115392/web.285569/#/summary</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503EAA670E0633390EE0A2318" Name="Hancock" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="60" Type="County" VotersParticipated="0" VotersRegistered="52131">
+      <Code Type="StateLevel" Value="32"/>
+      <Code Type="LocalLevel" Value="Northwest"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="130"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://hancockcountyohioelections.gov/live/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503B8A670E0633390EE0A2318" Name="Hardin" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="21" Type="County" VotersParticipated="0" VotersRegistered="18078">
+      <Code Type="StateLevel" Value="33"/>
+      <Code Type="LocalLevel" Value="Central"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="28"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/hardin/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A5040AA670E0633390EE0A2318" Name="Harrison" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="16" Type="County" VotersParticipated="0" VotersRegistered="10011">
+      <Code Type="StateLevel" Value="34"/>
+      <Code Type="LocalLevel" Value="Southeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="26"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/harrison/election-info/election-night-results</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503A8A670E0633390EE0A2318" Name="Henry" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="23" Type="County" VotersParticipated="0" VotersRegistered="19588">
+      <Code Type="StateLevel" Value="35"/>
+      <Code Type="LocalLevel" Value="Northwest"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="18"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.henrycountyohio.gov/241/Election-Results</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A5041AA670E0633390EE0A2318" Name="Highland" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="31" Type="County" VotersParticipated="0" VotersRegistered="27929">
+      <Code Type="StateLevel" Value="36"/>
+      <Code Type="LocalLevel" Value="Southwest"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="29"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/highland/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A5041CA670E0633390EE0A2318" Name="Hocking" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="20" Type="County" VotersParticipated="0" VotersRegistered="18501">
+      <Code Type="StateLevel" Value="37"/>
+      <Code Type="LocalLevel" Value="Central"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="23"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/hocking/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A5041EA670E0633390EE0A2318" Name="Holmes" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="17" Type="County" VotersParticipated="0" VotersRegistered="18146">
+      <Code Type="StateLevel" Value="38"/>
+      <Code Type="LocalLevel" Value="Northeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="11"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/holmes/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A50420A670E0633390EE0A2318" Name="Huron" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="46" Type="County" VotersParticipated="0" VotersRegistered="37245">
+      <Code Type="StateLevel" Value="39"/>
+      <Code Type="LocalLevel" Value="Northeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="54"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.huron.boe.ohio.gov/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A50422A670E0633390EE0A2318" Name="Jackson" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="30" Type="County" VotersParticipated="0" VotersRegistered="20909">
+      <Code Type="StateLevel" Value="40"/>
+      <Code Type="LocalLevel" Value="Southeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="19"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/jackson/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A50414A670E0633390EE0A2318" Name="Jefferson" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="64" Type="County" VotersParticipated="0" VotersRegistered="45924">
+      <Code Type="StateLevel" Value="41"/>
+      <Code Type="LocalLevel" Value="Southeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="102"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/jefferson/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A50434A670E0633390EE0A2318" Name="Knox" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="55" Type="County" VotersParticipated="0" VotersRegistered="43589">
+      <Code Type="StateLevel" Value="42"/>
+      <Code Type="LocalLevel" Value="Central"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="91"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://boe.knoxcounty.oh.gov/election-day-results</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A50424A670E0633390EE0A2318" Name="Lake" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="163" Type="County" VotersParticipated="0" VotersRegistered="166348">
+      <Code Type="StateLevel" Value="43"/>
+      <Code Type="LocalLevel" Value="Northeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="391"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.lakecountyohio.gov/boe/election-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A50426A670E0633390EE0A2318" Name="Lawrence" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="84" Type="County" VotersParticipated="0" VotersRegistered="43605">
+      <Code Type="StateLevel" Value="44"/>
+      <Code Type="LocalLevel" Value="Southeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="123"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/lawrence/election-info/election-night-results</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A50428A670E0633390EE0A2318" Name="Licking" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="96" Type="County" VotersParticipated="0" VotersRegistered="129847">
+      <Code Type="StateLevel" Value="45"/>
+      <Code Type="LocalLevel" Value="Central"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="358"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/licking/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A5042AA670E0633390EE0A2318" Name="Logan" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="36" Type="County" VotersParticipated="0" VotersRegistered="32489">
+      <Code Type="StateLevel" Value="46"/>
+      <Code Type="LocalLevel" Value="West"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="73"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/logan/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A5042CA670E0633390EE0A2318" Name="Lorain" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="210" Type="County" VotersParticipated="0" VotersRegistered="223083">
+      <Code Type="StateLevel" Value="47"/>
+      <Code Type="LocalLevel" Value="Northeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="780"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.voteloraincountyohio.gov/elections-results-search</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A50418A670E0633390EE0A2318" Name="Lucas" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="280" Type="County" VotersParticipated="0" VotersRegistered="306261">
+      <Code Type="StateLevel" Value="48"/>
+      <Code Type="LocalLevel" Value="Northwest"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="848"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.lucascountyohiovotes.gov/home</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A5042EA670E0633390EE0A2318" Name="Madison" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="24" Type="County" VotersParticipated="0" VotersRegistered="27451">
+      <Code Type="StateLevel" Value="49"/>
+      <Code Type="LocalLevel" Value="Central"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="92"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/madison/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503CCA670E0633390EE0A2318" Name="Mahoning" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="212" Type="County" VotersParticipated="0" VotersRegistered="163438">
+      <Code Type="StateLevel" Value="50"/>
+      <Code Type="LocalLevel" Value="Northeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="580"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://vote.mahoningcountyoh.gov/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503CEA670E0633390EE0A2318" Name="Marion" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="45" Type="County" VotersParticipated="0" VotersRegistered="39969">
+      <Code Type="StateLevel" Value="51"/>
+      <Code Type="LocalLevel" Value="Central"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="53"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/marion/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503D0A670E0633390EE0A2318" Name="Medina" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="121" Type="County" VotersParticipated="0" VotersRegistered="135079">
+      <Code Type="StateLevel" Value="52"/>
+      <Code Type="LocalLevel" Value="Northeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="290"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/medina/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503D2A670E0633390EE0A2318" Name="Meigs" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="27" Type="County" VotersParticipated="0" VotersRegistered="15071">
+      <Code Type="StateLevel" Value="53"/>
+      <Code Type="LocalLevel" Value="Southeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="7"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/meigs/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503D4A670E0633390EE0A2318" Name="Mercer" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="36" Type="County" VotersParticipated="0" VotersRegistered="29746">
+      <Code Type="StateLevel" Value="54"/>
+      <Code Type="LocalLevel" Value="West"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="37"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://elections.mercercountyohio.gov/electionResults.shtml</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A5038CA670E0633390EE0A2318" Name="Miami" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="87" Type="County" VotersParticipated="0" VotersRegistered="79483">
+      <Code Type="StateLevel" Value="55"/>
+      <Code Type="LocalLevel" Value="West"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="151"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/miami/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A5038EA670E0633390EE0A2318" Name="Monroe" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="20" Type="County" VotersParticipated="0" VotersRegistered="9271">
+      <Code Type="StateLevel" Value="56"/>
+      <Code Type="LocalLevel" Value="Southeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="26"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/monroe/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A50416A670E0633390EE0A2318" Name="Montgomery" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="381" Type="County" VotersParticipated="0" VotersRegistered="376122">
+      <Code Type="StateLevel" Value="57"/>
+      <Code Type="LocalLevel" Value="West"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="930"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.montgomery.boe.ohio.gov/election-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A50390A670E0633390EE0A2318" Name="Morgan" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="13" Type="County" VotersParticipated="0" VotersRegistered="9189">
+      <Code Type="StateLevel" Value="58"/>
+      <Code Type="LocalLevel" Value="Central"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="19"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/morgan</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A50392A670E0633390EE0A2318" Name="Morrow" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="33" Type="County" VotersParticipated="0" VotersRegistered="24838">
+      <Code Type="StateLevel" Value="59"/>
+      <Code Type="LocalLevel" Value="Central"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="39"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://boe.morrowcountyohio.gov/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A50394A670E0633390EE0A2318" Name="Muskingum" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="68" Type="County" VotersParticipated="0" VotersRegistered="54918">
+      <Code Type="StateLevel" Value="60"/>
+      <Code Type="LocalLevel" Value="Central"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="70"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.muskingumcountyoh.gov/Agencies/Board-Of-Elections</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503E0A670E0633390EE0A2318" Name="Noble" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="19" Type="County" VotersParticipated="0" VotersRegistered="8127">
+      <Code Type="StateLevel" Value="61"/>
+      <Code Type="LocalLevel" Value="Southeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="11"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/noble/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A50396A670E0633390EE0A2318" Name="Ottawa" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="36" Type="County" VotersParticipated="0" VotersRegistered="30788">
+      <Code Type="StateLevel" Value="62"/>
+      <Code Type="LocalLevel" Value="Northwest"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="75"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://boe.ottawa.oh.gov</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A50398A670E0633390EE0A2318" Name="Paulding" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="16" Type="County" VotersParticipated="0" VotersRegistered="12765">
+      <Code Type="StateLevel" Value="63"/>
+      <Code Type="LocalLevel" Value="West"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="5"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/paulding/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A5039AA670E0633390EE0A2318" Name="Perry" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="33" Type="County" VotersParticipated="0" VotersRegistered="23119">
+      <Code Type="StateLevel" Value="64"/>
+      <Code Type="LocalLevel" Value="Central"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="51"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://elections.perrycountyohio.gov/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503ECA670E0633390EE0A2318" Name="Pickaway" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="44" Type="County" VotersParticipated="0" VotersRegistered="39039">
+      <Code Type="StateLevel" Value="65"/>
+      <Code Type="LocalLevel" Value="Central"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="65"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/pickaway/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503EEA670E0633390EE0A2318" Name="Pike" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="22" Type="County" VotersParticipated="0" VotersRegistered="18119">
+      <Code Type="StateLevel" Value="66"/>
+      <Code Type="LocalLevel" Value="Central"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="22"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/pike/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503F0A670E0633390EE0A2318" Name="Portage" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="126" Type="County" VotersParticipated="0" VotersRegistered="111709">
+      <Code Type="StateLevel" Value="67"/>
+      <Code Type="LocalLevel" Value="Northeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="279"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>www.portagecounty-oh.gov/board-elections</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503F2A670E0633390EE0A2318" Name="Preble" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="42" Type="County" VotersParticipated="0" VotersRegistered="29040">
+      <Code Type="StateLevel" Value="68"/>
+      <Code Type="LocalLevel" Value="West"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="19"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/preble/election-info/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503A0A670E0633390EE0A2318" Name="Putnam" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="25" Type="County" VotersParticipated="0" VotersRegistered="24100">
+      <Code Type="StateLevel" Value="69"/>
+      <Code Type="LocalLevel" Value="Northwest"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="13"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/putnam</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A50410A670E0633390EE0A2318" Name="Richland" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="83" Type="County" VotersParticipated="0" VotersRegistered="81001">
+      <Code Type="StateLevel" Value="70"/>
+      <Code Type="LocalLevel" Value="Northeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="104"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/richland/election-info/election-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503A2A670E0633390EE0A2318" Name="Ross" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="65" Type="County" VotersParticipated="0" VotersRegistered="46675">
+      <Code Type="StateLevel" Value="71"/>
+      <Code Type="LocalLevel" Value="Central"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="109"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/ross/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503A4A670E0633390EE0A2318" Name="Sandusky" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="58" Type="County" VotersParticipated="0" VotersRegistered="40655">
+      <Code Type="StateLevel" Value="72"/>
+      <Code Type="LocalLevel" Value="Northwest"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="74"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://sanduskycountyoh.gov/index.php?page=board-of-elections</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503A6A670E0633390EE0A2318" Name="Scioto" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="77" Type="County" VotersParticipated="0" VotersRegistered="45764">
+      <Code Type="StateLevel" Value="73"/>
+      <Code Type="LocalLevel" Value="Southeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="59"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/scioto/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A5039CA670E0633390EE0A2318" Name="Seneca" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="51" Type="County" VotersParticipated="0" VotersRegistered="35206">
+      <Code Type="StateLevel" Value="74"/>
+      <Code Type="LocalLevel" Value="Northwest"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="110"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/seneca/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503D6A670E0633390EE0A2318" Name="Shelby" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="36" Type="County" VotersParticipated="0" VotersRegistered="33096">
+      <Code Type="StateLevel" Value="75"/>
+      <Code Type="LocalLevel" Value="West"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="39"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/shelby</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A5040EA670E0633390EE0A2318" Name="Stark" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="275" Type="County" VotersParticipated="0" VotersRegistered="254543">
+      <Code Type="StateLevel" Value="76"/>
+      <Code Type="LocalLevel" Value="Northeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="596"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.starkcountyohio.gov/government/offices/board_of_elections/election_results.php</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A50432A670E0633390EE0A2318" Name="Summit" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="371" Type="County" VotersParticipated="0" VotersRegistered="384386">
+      <Code Type="StateLevel" Value="77"/>
+      <Code Type="LocalLevel" Value="Northeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="894"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.summitcountyboe.gov</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503D8A670E0633390EE0A2318" Name="Trumbull" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="158" Type="County" VotersParticipated="0" VotersRegistered="138266">
+      <Code Type="StateLevel" Value="78"/>
+      <Code Type="LocalLevel" Value="Northeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="310"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://boe.co.trumbull.oh.gov/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503F4A670E0633390EE0A2318" Name="Tuscarawas" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="81" Type="County" VotersParticipated="0" VotersRegistered="58970">
+      <Code Type="StateLevel" Value="79"/>
+      <Code Type="LocalLevel" Value="Northeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="130"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/tuscarawas/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503F8A670E0633390EE0A2318" Name="Union" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="50" Type="County" VotersParticipated="0" VotersRegistered="48069">
+      <Code Type="StateLevel" Value="80"/>
+      <Code Type="LocalLevel" Value="Central"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="76"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.unioncountyohio.gov/election-results</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503FAA670E0633390EE0A2318" Name="Van Wert" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="32" Type="County" VotersParticipated="0" VotersRegistered="20555">
+      <Code Type="StateLevel" Value="81"/>
+      <Code Type="LocalLevel" Value="West"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="13"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/vanwert/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503AAA670E0633390EE0A2318" Name="Vinton" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="20" Type="County" VotersParticipated="0" VotersRegistered="8480">
+      <Code Type="StateLevel" Value="82"/>
+      <Code Type="LocalLevel" Value="Southeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="22"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/vinton/election-info/election-night-results/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503ACA670E0633390EE0A2318" Name="Warren" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="185" Type="County" VotersParticipated="0" VotersRegistered="179809">
+      <Code Type="StateLevel" Value="83"/>
+      <Code Type="LocalLevel" Value="Southwest"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="257"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://liveresults.boe.ohio.gov/ENR/warrenohenr/9/en/Index_9.html</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503AEA670E0633390EE0A2318" Name="Washington" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="50" Type="County" VotersParticipated="0" VotersRegistered="43326">
+      <Code Type="StateLevel" Value="84"/>
+      <Code Type="LocalLevel" Value="Southeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="81"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.boe.ohio.gov/washington</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503B0A670E0633390EE0A2318" Name="Wayne" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="67" Type="County" VotersParticipated="0" VotersRegistered="70873">
+      <Code Type="StateLevel" Value="85"/>
+      <Code Type="LocalLevel" Value="Northeast"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="177"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.waynecountyoh.gov</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A503B2A670E0633390EE0A2318" Name="Williams" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="26" Type="County" VotersParticipated="0" VotersRegistered="25426">
+      <Code Type="StateLevel" Value="86"/>
+      <Code Type="LocalLevel" Value="Northwest"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="19"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.williamscountyoh.gov/152/Election-Results</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A50406A670E0633390EE0A2318" Name="Wood" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="99" Type="County" VotersParticipated="0" VotersRegistered="91570">
+      <Code Type="StateLevel" Value="87"/>
+      <Code Type="LocalLevel" Value="Northwest"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="314"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://www.co.wood.oh.us/boe/</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A50408A670E0633390EE0A2318" Name="Wyandot" IsElectoralDistrict="false" SubUnitsReported="0" TotalSubUnits="23" Type="County" VotersParticipated="0" VotersRegistered="14925">
+      <Code Type="StateLevel" Value="88"/>
+      <Code Type="LocalLevel" Value="Northwest"/>
+      <SummaryCounts Type="Total" BallotsCast="0"/>
+      <SummaryCounts Type="Absentee" BallotsOutstanding="13"/>
+      <SummaryCounts Type="Provisional"/>
+      <ContactInformation>
+        <Uri>https://wyandotboardofelectionsohio.gov/election_results.php</Uri>
+      </ContactInformation>
+      <CountStatus Status="InProcess" Type="Total"/>
+    </GpUnit>
+    <!--Begin districts-->
+    <GpUnit xsi:type="ReportingUnit" ObjectId="_2CEE56A504A4A670E0633390EE0A2318" Name="Statewide" IsElectoralDistrict="true" Type="State"/>
+    <!--Begin precincts-->
+  </GpUnitCollection>
+  <OfficeCollection>
+    <OfficeGroup Name="ROOT">
+      <SubOfficeGroup Name="Statewide Issues"/>
+    </OfficeGroup>
+  </OfficeCollection>
+  <Election Date="2025-05-06" Type="Special">
+    <Name>
+      <LanguageString Language="en">May 6, 2025 Primary/Special Election Unofficial Canvass</LanguageString>
+    </Name>
+    <ContactInformation>
+      <Uri>https://vote.ohio.gov/</Uri>
+    </ContactInformation>
+    <ContestCollection>
+      <Contest xsi:type="BallotMeasureContest" ObjectId="_2EE95777FB06895CE0633390EE0A76ED" Abbreviation="State Issue 2" Name="State Issue 2 To Fund Public Infrastructure Capital Improvements by Permitting the Issuance of General Obligation Bonds" VoteVariationType="NofM" Type="BallotMeasure">
+        <Code OtherType="ContestType" Value="Statewide Issues" Type="Other"/>
+        <Code Type="Other" OtherType="IsTopRace" Value="true"/>
+        <BallotSelection xsi:type="BallotMeasureSelection" ObjectId="_YES2EE95777FB06895CE0633390EE0A76ED" Selection="YES">
+          <VoteCountsCollection>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A504A4A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <!--begin county totals-->
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503C4A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50412A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503C6A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503C8A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503CAA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503B6A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50430A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503FCA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503BCA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503BEA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503FEA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50400A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50402A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50404A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A5038AA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50438A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503F6A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503DAA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503DCA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50436A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503DEA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503E4A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A5040CA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503E6A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A5039EA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503B4A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503BAA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503C0A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503C2A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503E8A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503E2A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503EAA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503B8A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A5040AA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503A8A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A5041AA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A5041CA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A5041EA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50420A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50422A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50414A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50434A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50424A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50426A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50428A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A5042AA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A5042CA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50418A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A5042EA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503CCA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503CEA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503D0A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503D2A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503D4A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A5038CA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A5038EA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50416A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50390A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50392A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50394A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503E0A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50396A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50398A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A5039AA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503ECA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503EEA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503F0A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503F2A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503A0A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50410A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503A2A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503A4A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503A6A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A5039CA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503D6A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A5040EA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50432A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503D8A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503F4A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503F8A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503FAA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503AAA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503ACA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503AEA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503B0A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503B2A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50406A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50408A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <!--begin precinct totals-->
+          </VoteCountsCollection>
+        </BallotSelection>
+        <BallotSelection xsi:type="BallotMeasureSelection" ObjectId="_NO2EE95777FB06895CE0633390EE0A76ED" Selection="NO">
+          <VoteCountsCollection>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A504A4A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <!--begin county totals-->
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503C4A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50412A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503C6A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503C8A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503CAA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503B6A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50430A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503FCA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503BCA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503BEA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503FEA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50400A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50402A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50404A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A5038AA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50438A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503F6A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503DAA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503DCA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50436A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503DEA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503E4A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A5040CA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503E6A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A5039EA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503B4A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503BAA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503C0A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503C2A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503E8A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503E2A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503EAA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503B8A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A5040AA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503A8A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A5041AA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A5041CA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A5041EA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50420A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50422A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50414A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50434A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50424A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50426A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50428A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A5042AA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A5042CA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50418A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A5042EA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503CCA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503CEA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503D0A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503D2A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503D4A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A5038CA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A5038EA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50416A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50390A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50392A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50394A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503E0A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50396A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50398A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A5039AA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503ECA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503EEA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503F0A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503F2A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503A0A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50410A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503A2A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503A4A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503A6A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A5039CA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503D6A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A5040EA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50432A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503D8A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503F4A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503F8A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503FAA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503AAA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503ACA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503AEA670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503B0A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A503B2A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50406A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <VoteCounts Type="Total" Count="0">
+              <GpUnitId>_2CEE56A50408A670E0633390EE0A2318</GpUnitId>
+            </VoteCounts>
+            <!--begin precinct totals-->
+          </VoteCountsCollection>
+        </BallotSelection>
+        <JurisdictionalScopeId>_2CEE56A504A4A670E0633390EE0A2318</JurisdictionalScopeId>
+      </Contest>
+    </ContestCollection>
+  </Election>
+</ElectionReport>
